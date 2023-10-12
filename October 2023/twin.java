@@ -28,7 +28,7 @@ class twin {
 
             int Size = s1.length();
 
-            char firstChar = s1.charAt(0);
+            char firstChar = s1.charAt(0);oct
 
             for (int i = 0; i < Size; i++) {
                 if (s2.charAt(i) == firstChar) {
