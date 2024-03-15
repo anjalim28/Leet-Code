@@ -13,7 +13,6 @@ public:
             }
             count[curr_sum]++;
         }
-
         return total_subarrays;
     }
 };
